@@ -2,10 +2,7 @@
 
 **The Tableau Dashboard for UK Bank Customers is a comprehensive data visualization project created using Tableau software. This interactive dashboard focuses on providing insightful visualizations and analysis of customer data for a UK-based bank. The dashboard enables users to explore key aspects of customer demographics, financial behavior, and job classifications, contributing to informed decision-making and targeted strategies.**
 
-
-
 ![image](https://github.com/NishantSuhag02/Tableau-Dashboard-Creation/assets/112072807/e82dedab-5f69-475e-abfb-3790797f3c64)
-
 
 # Visualizations:
 **Country Distribution:** 
